@@ -1,0 +1,110 @@
+# Cities
+cities:
+  - title: Αθηνών 
+    slug: athinwn
+  - title: Αιτωλοακαρνανίας 
+    slug: aitoloakarnanias
+  - title: Ανατολικής Αττικής 
+    slug: anatolokis-atikis
+  - title: Αργολίδος  
+    slug: argolidos
+  - title: Αρκαδίας  
+    slug: arkadias
+  - title: Αρτης  
+    slug: artis
+  - title: Αχαϊας  
+    slug: achaias
+  - title: Βοιωτίας  
+    slug: viotias
+  - title: Γρεβενών  
+    slug: grevenon
+  - title: Δράμας  
+    slug: dramas
+  - title: Δυτικής Αττικής  
+    slug: dutikis-atikis
+  - title: Δωδεκανήσου  
+    slug: dodekanisou
+  - title: Έβρου  
+    slug: eurou
+  - title: Ευβοίας  
+    slug: evoias
+  - title: Ευρυτανίας  
+    slug: euritanias
+  - title: Ζακύνθου  
+    slug: zakinthou
+  - title: Ηλείας  
+    slug: ilias
+  - title: Ημαθίας  
+    slug: imathias
+  - title: Ηρακλείου  
+    slug: irakleiou
+  - title: Θεσπρωτίας  
+    slug: thesprotias
+  - title: Θεσσαλονίκης  
+    slug: thassalonikis
+  - title: Ιωαννίνων  
+    slug: iwanninwn
+  - title: Καβάλας  
+    slug: kavalas
+  - title: Καρδίτσης  
+    slug: karditsas
+  - title: Καστοριάς  
+    slug: kastorias
+  - title: Κερκύρας  
+    slug: kerkuras
+  - title: Κεφαλληνίας  
+    slug: kefallinias
+  - title: Κιλκίς  
+    slug: kilkis
+  - title: Κοζάνης  
+    slug: kozanis
+  - title: Κορινθίας  
+    slug: korinthias
+  - title: Κυκλάδων  
+    slug: kukladon
+  - title: Λακωνίας  
+    slug: lakonias
+  - title: Λαρίσης  
+    slug: larisis
+  - title: Λασιθίου  
+    slug: lasithisou
+  - title: Λέσβου  
+    slug: lesvou
+  - title: Λευκάδος  
+    slug: leukados
+  - title: Μαγνησίας  
+    slug: magnisias
+  - title: Μεσσηνίας  
+    slug: mesinias
+  - title: Ξάνθης  
+    slug: xanthis
+  - title: Πειραιώς  
+    slug: peiraios
+  - title: Πέλλης  
+    slug: pellis
+  - title: Πιερίας  
+    slug: pierias
+  - title: Πρεβέζης  
+    slug: prevezis
+  - title: Ρεθύμνης  
+    slug: rethimnis
+  - title: Ροδόπης  
+    slug: rodopis
+  - title: Σάμου  
+    slug: samou
+  - title: Σερρών  
+    slug: serron
+  - title: Τρικάλων  
+    slug: trikalon
+  - title: Φθιώτιδος  
+    slug: fthiotidos
+  - title: Φλωρίνης  
+    slug: florinis
+  - title: Φωκίδος  
+    slug: fokidos
+  - title: Χαλκιδικής  
+    slug: xalkidikis
+  - title: Χανίων  
+    slug: xanion
+  - title: Χίου  
+    slug: xiou
